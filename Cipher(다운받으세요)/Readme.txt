@@ -14,8 +14,8 @@ key number에 따라 암호화 결과가 천차만별로 달라지므로, 원하
 
 -enchipher. exe에서:
 초기 화면: Input the key:
-입력값: 14
+입력값: 13
 입력값: Ufnos Cvzun!
 결과물: Hello World!
 
-최종 수정 일시: 오전 4:58 2019-10-15
+최종 수정 일시: 오전 5:00 2019-10-15
