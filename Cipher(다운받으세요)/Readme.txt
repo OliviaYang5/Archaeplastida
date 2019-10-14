@@ -9,12 +9,12 @@ key number에 따라 암호화 결과가 천차만별로 달라지므로, 원하
 초기 화면: Input the key:
 입력값: 13
 입력값: Hello World!
-결과물:
+결과물: Ufnos Cvzun!
 
 -enchipher. exe에서:
 초기 화면: Input the key:
 입력값: 13
-입력값:
-결과물:
+입력값: Ufnos Cvzun!
+결과물: Hello World!
 
 최종 수정 일시: 오전 4:40 2019-10-15
