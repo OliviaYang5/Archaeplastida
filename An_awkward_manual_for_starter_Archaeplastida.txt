@@ -4,7 +4,8 @@ So you can initiate your working with cd (the path), when you try to work with A
 
 mkdir directory_name : make new directory in current path
 git status : check status and report if there are files that should be added
-git add file.txt : add file so that git can recognize (!!should be done prior to anything below!!)
+git add <file> : add file so that git can recognize (!!should be done prior to anything below!!)
 git commit -m "Message" : commit current status with message written in ""
 git push : upload updates, commit should be 
 git pull origin master : download updates originated from master
+git rm <file>
