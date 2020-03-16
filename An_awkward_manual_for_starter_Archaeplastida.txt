@@ -1,4 +1,4 @@
-Repo "Archaestida" is currently linked to C:\Users\"Olivia Yang"\Archaeplastida
+Repo "Archaestida" is currently linked to D:\Archaeplastida
 
 So you can initiate your working with cd (the path), when you try to work with Archaeplastida.
 
