@@ -1,0 +1,2 @@
+git --version
+git update-git-for-windows 
